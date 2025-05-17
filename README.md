@@ -16,7 +16,6 @@ To get started with this Chat Application, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/jyotideepjee1803/mern-stack-chat-app.git
 Install server dependencies :
 
 cd server
